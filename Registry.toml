@@ -34,6 +34,7 @@ b1d9ff6e-938d-43f9-b327-c16571782863 = { name = "ProjecturedDBCatalog", path = "
 b21cb890-5227-4e91-ae0e-8ab4d844f9f7 = { name = "ProjecturedPlatform", path = "P/ProjecturedPlatform" }
 b272d1c7-21da-44b4-9d4d-f64941f33c6f = { name = "AutoPrecompile", path = "A/AutoPrecompile" }
 b2967ee9-386e-4698-a92b-2bf5f698f2fd = { name = "ProjecturedKernelExample", path = "P/ProjecturedKernelExample" }
+c5b98bcf-e28d-4a35-99f8-6857f35710ad = { name = "ProjecturedChartTest", path = "P/ProjecturedChartTest" }
 cfb0314b-b1fd-4c94-91d2-2de69579dcb1 = { name = "ProjecturedGraph", path = "P/ProjecturedGraph" }
 d7d6c9a1-04d6-4ada-9cc1-b2de81f79968 = { name = "ProjecturedConsole", path = "P/ProjecturedConsole" }
 d8115f9e-353f-406e-8661-6168b14bd6fd = { name = "ProjecturedSQL", path = "P/ProjecturedSQL" }
