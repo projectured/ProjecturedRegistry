@@ -1,0 +1,4 @@
+name = "ProjecturedConsoleTest"
+uuid = "0f41fec8-bd22-4fa0-a125-3c10d745f6e8"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "test/ProjecturedConsoleTest"
