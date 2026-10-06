@@ -1,0 +1,4 @@
+name = "ProjecturedSequenceChartExample"
+uuid = "5b64cb16-3395-4b64-9318-fc74b96892aa"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "example/ProjecturedSequenceChartExample"
