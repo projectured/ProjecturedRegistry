@@ -1,0 +1,4 @@
+name = "ProjecturedMCPTest"
+uuid = "6701148d-79c0-4063-93b4-06ac75587b22"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "test/ProjecturedMCPTest"
