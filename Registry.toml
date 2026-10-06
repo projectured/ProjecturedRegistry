@@ -5,3 +5,5 @@ repo = "https://github.com/projectured/ProjecturedRegistry.git"
 description = "The packages of ProjecturEd"
 
 [packages]
+40fd747d-4b08-4b8c-98c4-74a2b6295b1b = { name = "AutoIntegration", path = "A/AutoIntegration" }
+b272d1c7-21da-44b4-9d4d-f64941f33c6f = { name = "AutoPrecompile", path = "A/AutoPrecompile" }

@@ -1,0 +1,3 @@
+name = "AutoPrecompile"
+uuid = "b272d1c7-21da-44b4-9d4d-f64941f33c6f"
+repo = "https://github.com/projectured/AutoPrecompile.jl.git"
