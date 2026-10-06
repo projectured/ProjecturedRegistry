@@ -1,0 +1,4 @@
+name = "ProjecturedFSMTest"
+uuid = "01095f28-dae7-4131-b352-cd496415c16e"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "test/ProjecturedFSMTest"
