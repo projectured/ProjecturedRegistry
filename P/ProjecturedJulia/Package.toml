@@ -1,0 +1,4 @@
+name = "ProjecturedJulia"
+uuid = "8625b742-6071-4be0-bd92-d89876019251"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "ProjecturedJulia"
