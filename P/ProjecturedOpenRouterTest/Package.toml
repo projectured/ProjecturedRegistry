@@ -1,0 +1,4 @@
+name = "ProjecturedOpenRouterTest"
+uuid = "dc1d00c5-94ff-4244-b58f-31c92e267a9e"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "test/ProjecturedOpenRouterTest"
