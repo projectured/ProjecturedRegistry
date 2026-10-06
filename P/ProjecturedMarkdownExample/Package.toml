@@ -1,0 +1,4 @@
+name = "ProjecturedMarkdownExample"
+uuid = "722875ac-d894-402c-8041-e4d11ad1bcfb"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "example/ProjecturedMarkdownExample"
