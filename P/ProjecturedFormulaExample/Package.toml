@@ -1,0 +1,4 @@
+name = "ProjecturedFormulaExample"
+uuid = "e12fc55c-24d9-46de-99d8-255849114e23"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "example/ProjecturedFormulaExample"
