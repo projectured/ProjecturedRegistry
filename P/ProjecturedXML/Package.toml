@@ -1,0 +1,4 @@
+name = "ProjecturedXML"
+uuid = "6f8deb26-6771-4202-9df0-376c19aef1c5"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "ProjecturedXML"
