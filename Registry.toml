@@ -24,6 +24,7 @@ description = "The packages of ProjecturEd"
 3e41c706-0d64-40b0-8e9d-89616f7fa6cc = { name = "ProjecturedAll", path = "P/ProjecturedAll" }
 40fd747d-4b08-4b8c-98c4-74a2b6295b1b = { name = "AutoIntegration", path = "A/AutoIntegration" }
 4bcc8087-a0d3-44e8-950a-3c1c95d942c2 = { name = "ProjecturedJuliaExample", path = "P/ProjecturedJuliaExample" }
+4e12067a-a745-4784-a5a3-977285a45110 = { name = "ProjecturedProcessTest", path = "P/ProjecturedProcessTest" }
 5049da3f-9201-47d6-95d8-24bb99c7096c = { name = "ProjecturedPlatformExample", path = "P/ProjecturedPlatformExample" }
 5226cae2-817a-4f8b-bb8c-b345e62d49a4 = { name = "ProjecturedOllamaTest", path = "P/ProjecturedOllamaTest" }
 52a43d73-2617-4b68-a734-0e5186e9ad8a = { name = "ProjecturedOpenRouter", path = "P/ProjecturedOpenRouter" }
