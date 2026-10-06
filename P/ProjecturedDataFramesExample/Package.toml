@@ -1,0 +1,4 @@
+name = "ProjecturedDataFramesExample"
+uuid = "61ad9eff-ea91-43c8-867c-8ad08b1239de"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "example/ProjecturedDataFramesExample"
