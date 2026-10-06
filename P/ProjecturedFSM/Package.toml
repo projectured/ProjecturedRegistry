@@ -1,0 +1,4 @@
+name = "ProjecturedFSM"
+uuid = "9482bca5-e1c6-47fd-ab22-f4512ed15b91"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "ProjecturedFSM"
