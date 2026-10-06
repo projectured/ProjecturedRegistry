@@ -19,6 +19,7 @@ description = "The packages of ProjecturEd"
 2b4e36b2-6b10-43fd-9b63-0a09efcd22da = { name = "ProjecturedMCP", path = "P/ProjecturedMCP" }
 3273370f-c929-4bc9-ba87-1db3095df6c3 = { name = "ProjecturedDBCatalogTest", path = "P/ProjecturedDBCatalogTest" }
 347e843b-c443-43c2-b8df-78595927ced1 = { name = "ProjecturedConversationExample", path = "P/ProjecturedConversationExample" }
+35efe23a-a24b-424c-93f0-086222c9adeb = { name = "ProjecturedMathTest", path = "P/ProjecturedMathTest" }
 38f1c7f4-274b-4c10-ad20-becff0e69ef8 = { name = "ProjecturedPlatformTest", path = "P/ProjecturedPlatformTest" }
 3e41c706-0d64-40b0-8e9d-89616f7fa6cc = { name = "ProjecturedAll", path = "P/ProjecturedAll" }
 40fd747d-4b08-4b8c-98c4-74a2b6295b1b = { name = "AutoIntegration", path = "A/AutoIntegration" }
