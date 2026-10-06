@@ -1,0 +1,4 @@
+name = "ProjecturedSequenceChartTest"
+uuid = "b8f37bf2-d7d5-44f6-aa47-dae3ecf6ffb1"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "test/ProjecturedSequenceChartTest"
