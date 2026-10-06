@@ -1,0 +1,4 @@
+name = "ProjecturedRSTTest"
+uuid = "40366416-8a51-4b61-9ebb-c3640b2257e4"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "test/ProjecturedRSTTest"
