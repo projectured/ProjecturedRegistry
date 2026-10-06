@@ -1,0 +1,4 @@
+name = "ProjecturedDataFramesTest"
+uuid = "b1aceadc-a635-48bd-837b-c4a6ec3ad7cd"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "test/ProjecturedDataFramesTest"
