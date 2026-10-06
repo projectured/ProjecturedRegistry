@@ -1,0 +1,4 @@
+name = "ProjecturedFSMExample"
+uuid = "b1ba53a3-461e-4ef7-8c9b-f3916bec3479"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "example/ProjecturedFSMExample"
