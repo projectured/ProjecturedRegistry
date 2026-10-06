@@ -65,6 +65,7 @@ b1aceadc-a635-48bd-837b-c4a6ec3ad7cd = { name = "ProjecturedDataFramesTest", pat
 b1ba53a3-461e-4ef7-8c9b-f3916bec3479 = { name = "ProjecturedFSMExample", path = "P/ProjecturedFSMExample" }
 b1d9ff6e-938d-43f9-b327-c16571782863 = { name = "ProjecturedDBCatalog", path = "P/ProjecturedDBCatalog" }
 b21cb890-5227-4e91-ae0e-8ab4d844f9f7 = { name = "ProjecturedPlatform", path = "P/ProjecturedPlatform" }
+b2505c89-7501-4d9a-b956-db36ec6d1cb4 = { name = "ProjecturedSDLExample", path = "P/ProjecturedSDLExample" }
 b272d1c7-21da-44b4-9d4d-f64941f33c6f = { name = "AutoPrecompile", path = "A/AutoPrecompile" }
 b2967ee9-386e-4698-a92b-2bf5f698f2fd = { name = "ProjecturedKernelExample", path = "P/ProjecturedKernelExample" }
 b5c88522-b0a8-403b-b9a3-0ff1b237a7b9 = { name = "ProjecturedODBCTest", path = "P/ProjecturedODBCTest" }
