@@ -1,9 +1,9 @@
 name = "ProjecturedRegistry"
 uuid = "198e69d2-907a-4ee4-8104-f98fee8b2545"
 repo = "https://github.com/projectured/ProjecturedRegistry.git"
-
 description = "The packages of ProjecturEd"
 
 [packages]
 40fd747d-4b08-4b8c-98c4-74a2b6295b1b = { name = "AutoIntegration", path = "A/AutoIntegration" }
+a3e3499a-684d-4df9-a0d6-de2d1797b1f3 = { name = "ProjecturedKernel", path = "P/ProjecturedKernel" }
 b272d1c7-21da-44b4-9d4d-f64941f33c6f = { name = "AutoPrecompile", path = "A/AutoPrecompile" }
