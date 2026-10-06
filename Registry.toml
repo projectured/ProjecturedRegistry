@@ -12,3 +12,4 @@ a3e3499a-684d-4df9-a0d6-de2d1797b1f3 = { name = "ProjecturedKernel", path = "P/P
 b21cb890-5227-4e91-ae0e-8ab4d844f9f7 = { name = "ProjecturedPlatform", path = "P/ProjecturedPlatform" }
 b272d1c7-21da-44b4-9d4d-f64941f33c6f = { name = "AutoPrecompile", path = "A/AutoPrecompile" }
 d7d6c9a1-04d6-4ada-9cc1-b2de81f79968 = { name = "ProjecturedConsole", path = "P/ProjecturedConsole" }
+d8115f9e-353f-406e-8661-6168b14bd6fd = { name = "ProjecturedSQL", path = "P/ProjecturedSQL" }
