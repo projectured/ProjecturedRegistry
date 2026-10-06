@@ -1,0 +1,4 @@
+name = "ProjecturedMathExample"
+uuid = "73f1f682-f993-4b23-8fb6-96106c481b86"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "example/ProjecturedMathExample"
