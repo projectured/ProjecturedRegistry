@@ -1,0 +1,4 @@
+name = "ProjecturedOllamaTest"
+uuid = "5226cae2-817a-4f8b-bb8c-b345e62d49a4"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "test/ProjecturedOllamaTest"
