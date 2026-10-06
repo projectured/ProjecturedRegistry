@@ -13,6 +13,7 @@ description = "The packages of ProjecturEd"
 52f7693d-4ffe-48c4-8e5b-a1c83c826c09 = { name = "ProjecturedSequenceChart", path = "P/ProjecturedSequenceChart" }
 5b0a9501-da97-468b-b7ab-96b2aab72c39 = { name = "ProjecturedFormula", path = "P/ProjecturedFormula" }
 6f8deb26-6771-4202-9df0-376c19aef1c5 = { name = "ProjecturedXML", path = "P/ProjecturedXML" }
+7a22cfc9-547a-444c-98bf-c26ac0f0a0b0 = { name = "ProjecturedAnthropic", path = "P/ProjecturedAnthropic" }
 80f7b254-0441-42e3-ab4d-62a480615fad = { name = "ProjecturedMath", path = "P/ProjecturedMath" }
 831b768c-bfea-4983-ba67-a56f379c3222 = { name = "ProjecturedRST", path = "P/ProjecturedRST" }
 8625b742-6071-4be0-bd92-d89876019251 = { name = "ProjecturedJulia", path = "P/ProjecturedJulia" }
