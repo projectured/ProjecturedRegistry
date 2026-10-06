@@ -1,0 +1,4 @@
+name = "ProjecturedMarkdownTest"
+uuid = "9b6ed84a-435e-4201-b17d-e2031f977df8"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "test/ProjecturedMarkdownTest"
