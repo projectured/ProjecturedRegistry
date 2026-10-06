@@ -59,6 +59,7 @@ cfb0314b-b1fd-4c94-91d2-2de69579dcb1 = { name = "ProjecturedGraph", path = "P/Pr
 d7d6c9a1-04d6-4ada-9cc1-b2de81f79968 = { name = "ProjecturedConsole", path = "P/ProjecturedConsole" }
 d8115f9e-353f-406e-8661-6168b14bd6fd = { name = "ProjecturedSQL", path = "P/ProjecturedSQL" }
 e12fc55c-24d9-46de-99d8-255849114e23 = { name = "ProjecturedFormulaExample", path = "P/ProjecturedFormulaExample" }
+e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b = { name = "ProjecturedExample", path = "P/ProjecturedExample" }
 ed85f55b-e74c-4f3b-8176-8899111cfda7 = { name = "ProjecturedBookTest", path = "P/ProjecturedBookTest" }
 ee9f8c84-306f-4f17-8271-ad471b5f4c56 = { name = "ProjecturedDatabaseExample", path = "P/ProjecturedDatabaseExample" }
 fed55f08-0afa-4f03-a954-955ab0bee64d = { name = "ProjecturedYAMLExample", path = "P/ProjecturedYAMLExample" }
