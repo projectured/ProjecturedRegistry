@@ -1,0 +1,4 @@
+name = "ProjecturedDBCatalogExample"
+uuid = "b9bdd725-befb-4dbf-8d36-33f4c892fad9"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "example/ProjecturedDBCatalogExample"
