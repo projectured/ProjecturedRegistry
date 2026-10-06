@@ -9,6 +9,7 @@ description = "The packages of ProjecturEd"
 92922de3-b970-4d9a-8b2a-9d6f361397b5 = { name = "Projectured", path = "P/Projectured" }
 9f92ab8d-1e4b-4b34-8cd3-a68ecab7f845 = { name = "ProjecturedBook", path = "P/ProjecturedBook" }
 a3e3499a-684d-4df9-a0d6-de2d1797b1f3 = { name = "ProjecturedKernel", path = "P/ProjecturedKernel" }
+a8e362de-fb06-4734-b6cc-4acfede009df = { name = "ProjecturedDatabase", path = "P/ProjecturedDatabase" }
 b1d9ff6e-938d-43f9-b327-c16571782863 = { name = "ProjecturedDBCatalog", path = "P/ProjecturedDBCatalog" }
 b21cb890-5227-4e91-ae0e-8ab4d844f9f7 = { name = "ProjecturedPlatform", path = "P/ProjecturedPlatform" }
 b272d1c7-21da-44b4-9d4d-f64941f33c6f = { name = "AutoPrecompile", path = "A/AutoPrecompile" }
