@@ -1,0 +1,4 @@
+name = "ProjecturedSQLTest"
+uuid = "74717b3c-e326-42b6-b898-33b3a53c04ca"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "test/ProjecturedSQLTest"
