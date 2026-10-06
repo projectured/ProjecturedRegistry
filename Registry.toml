@@ -51,6 +51,7 @@ description = "The packages of ProjecturEd"
 a3e3499a-684d-4df9-a0d6-de2d1797b1f3 = { name = "ProjecturedKernel", path = "P/ProjecturedKernel" }
 a8e362de-fb06-4734-b6cc-4acfede009df = { name = "ProjecturedDatabase", path = "P/ProjecturedDatabase" }
 a9f201ce-8e0a-436b-92f0-224b8478d5cb = { name = "ProjecturedYAML", path = "P/ProjecturedYAML" }
+aed26263-2fd3-42de-9b03-7ee91ffa11a3 = { name = "ProjecturedODBC", path = "P/ProjecturedODBC" }
 b1aceadc-a635-48bd-837b-c4a6ec3ad7cd = { name = "ProjecturedDataFramesTest", path = "P/ProjecturedDataFramesTest" }
 b1ba53a3-461e-4ef7-8c9b-f3916bec3479 = { name = "ProjecturedFSMExample", path = "P/ProjecturedFSMExample" }
 b1d9ff6e-938d-43f9-b327-c16571782863 = { name = "ProjecturedDBCatalog", path = "P/ProjecturedDBCatalog" }

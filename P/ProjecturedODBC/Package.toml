@@ -1,0 +1,4 @@
+name = "ProjecturedODBC"
+uuid = "aed26263-2fd3-42de-9b03-7ee91ffa11a3"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "ProjecturedODBC"
