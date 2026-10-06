@@ -1,0 +1,4 @@
+name = "ProjecturedConversationExample"
+uuid = "347e843b-c443-43c2-b8df-78595927ced1"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "example/ProjecturedConversationExample"
