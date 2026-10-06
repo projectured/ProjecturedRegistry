@@ -1,0 +1,4 @@
+name = "ProjecturedSDL"
+uuid = "f0002b97-94ba-416c-b93c-86cdc095626f"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "ProjecturedSDL"
