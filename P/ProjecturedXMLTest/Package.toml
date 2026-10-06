@@ -1,0 +1,4 @@
+name = "ProjecturedXMLTest"
+uuid = "e1c62fea-11da-4947-a567-721c2ab4f06a"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "test/ProjecturedXMLTest"
