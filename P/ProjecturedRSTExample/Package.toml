@@ -1,0 +1,4 @@
+name = "ProjecturedRSTExample"
+uuid = "653aef14-a50f-441b-8c17-330b3d4bb59b"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "example/ProjecturedRSTExample"
