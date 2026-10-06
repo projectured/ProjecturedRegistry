@@ -1,0 +1,4 @@
+name = "ProjecturedVideoTest"
+uuid = "fbb35dcc-61b4-4d33-836d-9545da8fa976"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "test/ProjecturedVideoTest"

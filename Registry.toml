@@ -88,4 +88,5 @@ ed85f55b-e74c-4f3b-8176-8899111cfda7 = { name = "ProjecturedBookTest", path = "P
 ee9f8c84-306f-4f17-8271-ad471b5f4c56 = { name = "ProjecturedDatabaseExample", path = "P/ProjecturedDatabaseExample" }
 f0002b97-94ba-416c-b93c-86cdc095626f = { name = "ProjecturedSDL", path = "P/ProjecturedSDL" }
 f3be0e4d-6b3e-4a55-8d43-69a2e3a1b80b = { name = "ProjecturedJSONTest", path = "P/ProjecturedJSONTest" }
+fbb35dcc-61b4-4d33-836d-9545da8fa976 = { name = "ProjecturedVideoTest", path = "P/ProjecturedVideoTest" }
 fed55f08-0afa-4f03-a954-955ab0bee64d = { name = "ProjecturedYAMLExample", path = "P/ProjecturedYAMLExample" }
