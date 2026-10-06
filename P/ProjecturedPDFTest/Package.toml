@@ -1,0 +1,4 @@
+name = "ProjecturedPDFTest"
+uuid = "e6416f43-abf0-46b1-b638-fa5f9d9ece1d"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "test/ProjecturedPDFTest"
