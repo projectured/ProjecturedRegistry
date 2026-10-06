@@ -1,0 +1,4 @@
+name = "ProjecturedYAMLTest"
+uuid = "c50c731e-0b3d-49a3-9d62-8794fc19745c"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "test/ProjecturedYAMLTest"
