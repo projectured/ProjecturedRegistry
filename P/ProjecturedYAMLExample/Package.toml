@@ -1,0 +1,4 @@
+name = "ProjecturedYAMLExample"
+uuid = "fed55f08-0afa-4f03-a954-955ab0bee64d"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "example/ProjecturedYAMLExample"
