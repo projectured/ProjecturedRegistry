@@ -63,6 +63,7 @@ b2967ee9-386e-4698-a92b-2bf5f698f2fd = { name = "ProjecturedKernelExample", path
 b9bdd725-befb-4dbf-8d36-33f4c892fad9 = { name = "ProjecturedDBCatalogExample", path = "P/ProjecturedDBCatalogExample" }
 bf3b10cf-befa-4ac9-98d3-9c1678f27146 = { name = "ProjecturedTulip", path = "P/ProjecturedTulip" }
 c5b98bcf-e28d-4a35-99f8-6857f35710ad = { name = "ProjecturedChartTest", path = "P/ProjecturedChartTest" }
+caf9ed19-1e68-4f5e-8085-d28b12c9e002 = { name = "ProjecturedJuliaTest", path = "P/ProjecturedJuliaTest" }
 cfb0314b-b1fd-4c94-91d2-2de69579dcb1 = { name = "ProjecturedGraph", path = "P/ProjecturedGraph" }
 d7d6c9a1-04d6-4ada-9cc1-b2de81f79968 = { name = "ProjecturedConsole", path = "P/ProjecturedConsole" }
 d8115f9e-353f-406e-8661-6168b14bd6fd = { name = "ProjecturedSQL", path = "P/ProjecturedSQL" }
