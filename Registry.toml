@@ -41,6 +41,7 @@ description = "The packages of ProjecturEd"
 80f7b254-0441-42e3-ab4d-62a480615fad = { name = "ProjecturedMath", path = "P/ProjecturedMath" }
 831b768c-bfea-4983-ba67-a56f379c3222 = { name = "ProjecturedRST", path = "P/ProjecturedRST" }
 8625b742-6071-4be0-bd92-d89876019251 = { name = "ProjecturedJulia", path = "P/ProjecturedJulia" }
+8d225f56-7fda-4c1e-a58b-db6d64f8335c = { name = "ProjecturedVideo", path = "P/ProjecturedVideo" }
 8fa9f7e0-53e6-4165-9444-bc8617d011dc = { name = "ProjecturedDatabaseTest", path = "P/ProjecturedDatabaseTest" }
 903c9982-1817-4ad4-896f-97194f4d58e8 = { name = "ProjecturedXMLExample", path = "P/ProjecturedXMLExample" }
 92922de3-b970-4d9a-8b2a-9d6f361397b5 = { name = "Projectured", path = "P/Projectured" }
