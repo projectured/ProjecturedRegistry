@@ -1,0 +1,9 @@
+[0]
+Projectured = "0.1"
+ProjecturedDataFrames = "0.1"
+ProjecturedMCP = "0.1"
+ProjecturedODBC = "0.1"
+ProjecturedSDL = "0.1"
+ProjecturedTulip = "0.1"
+ProjecturedVideo = "0.1"
+julia = "1.12.0-1"

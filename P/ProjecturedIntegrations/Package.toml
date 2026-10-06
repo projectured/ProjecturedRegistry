@@ -1,0 +1,4 @@
+name = "ProjecturedIntegrations"
+uuid = "12794e67-4fc4-4a27-b5bd-3fafde71a2fd"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "ProjecturedIntegrations"

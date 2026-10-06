@@ -1,0 +1,7 @@
+[0]
+DataFrames = "1.8.2-1"
+FFMPEG = "0.4.5-0.4"
+ModelContextProtocol = "0.4.1-0.4"
+ODBC = "1.2.1-1"
+SimpleDirectMediaLayer = "0.5"
+Tulip = "0.9.8-0.9"
