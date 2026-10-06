@@ -1,0 +1,4 @@
+name = "ProjecturedPlatformExample"
+uuid = "5049da3f-9201-47d6-95d8-24bb99c7096c"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "example/ProjecturedPlatformExample"

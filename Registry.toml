@@ -10,6 +10,7 @@ description = "The packages of ProjecturEd"
 18e37c66-e2b2-4424-ab73-223891693292 = { name = "ProjecturedPDF", path = "P/ProjecturedPDF" }
 3e41c706-0d64-40b0-8e9d-89616f7fa6cc = { name = "ProjecturedAll", path = "P/ProjecturedAll" }
 40fd747d-4b08-4b8c-98c4-74a2b6295b1b = { name = "AutoIntegration", path = "A/AutoIntegration" }
+5049da3f-9201-47d6-95d8-24bb99c7096c = { name = "ProjecturedPlatformExample", path = "P/ProjecturedPlatformExample" }
 52f7693d-4ffe-48c4-8e5b-a1c83c826c09 = { name = "ProjecturedSequenceChart", path = "P/ProjecturedSequenceChart" }
 5b0a9501-da97-468b-b7ab-96b2aab72c39 = { name = "ProjecturedFormula", path = "P/ProjecturedFormula" }
 6d6e7243-47fe-4ef5-bfc4-3f9d59ae8572 = { name = "ProjecturedAnthropicTest", path = "P/ProjecturedAnthropicTest" }
