@@ -18,6 +18,7 @@ description = "The packages of ProjecturEd"
 4bcc8087-a0d3-44e8-950a-3c1c95d942c2 = { name = "ProjecturedJuliaExample", path = "P/ProjecturedJuliaExample" }
 5049da3f-9201-47d6-95d8-24bb99c7096c = { name = "ProjecturedPlatformExample", path = "P/ProjecturedPlatformExample" }
 52f7693d-4ffe-48c4-8e5b-a1c83c826c09 = { name = "ProjecturedSequenceChart", path = "P/ProjecturedSequenceChart" }
+56a0c30a-96eb-4614-b42e-73838bfa8222 = { name = "ProjecturedDataFrames", path = "P/ProjecturedDataFrames" }
 5b0a9501-da97-468b-b7ab-96b2aab72c39 = { name = "ProjecturedFormula", path = "P/ProjecturedFormula" }
 6cb86c1c-56e1-4bb3-a3ba-612b1e625b3f = { name = "ProjecturedJSONExample", path = "P/ProjecturedJSONExample" }
 6d6e7243-47fe-4ef5-bfc4-3f9d59ae8572 = { name = "ProjecturedAnthropicTest", path = "P/ProjecturedAnthropicTest" }
