@@ -1,0 +1,4 @@
+name = "ProjecturedSDLTest"
+uuid = "906fdffd-1f7c-40f9-9b74-85400d88fea6"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "test/ProjecturedSDLTest"
