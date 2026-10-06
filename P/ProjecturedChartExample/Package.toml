@@ -1,0 +1,4 @@
+name = "ProjecturedChartExample"
+uuid = "0e53a0c9-3d54-4ef6-8a21-e550a94ca62b"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "example/ProjecturedChartExample"
