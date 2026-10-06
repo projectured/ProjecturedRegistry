@@ -34,6 +34,7 @@ description = "The packages of ProjecturEd"
 5b0a9501-da97-468b-b7ab-96b2aab72c39 = { name = "ProjecturedFormula", path = "P/ProjecturedFormula" }
 5b64cb16-3395-4b64-9318-fc74b96892aa = { name = "ProjecturedSequenceChartExample", path = "P/ProjecturedSequenceChartExample" }
 61ad9eff-ea91-43c8-867c-8ad08b1239de = { name = "ProjecturedDataFramesExample", path = "P/ProjecturedDataFramesExample" }
+63227355-0b2b-40e1-bdff-9ca7f4e6ad34 = { name = "ProjecturedWebTest", path = "P/ProjecturedWebTest" }
 653aef14-a50f-441b-8c17-330b3d4bb59b = { name = "ProjecturedRSTExample", path = "P/ProjecturedRSTExample" }
 6701148d-79c0-4063-93b4-06ac75587b22 = { name = "ProjecturedMCPTest", path = "P/ProjecturedMCPTest" }
 6cb86c1c-56e1-4bb3-a3ba-612b1e625b3f = { name = "ProjecturedJSONExample", path = "P/ProjecturedJSONExample" }
