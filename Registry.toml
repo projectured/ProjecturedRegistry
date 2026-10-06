@@ -6,6 +6,7 @@ description = "The packages of ProjecturEd"
 [packages]
 015a7010-be44-4818-8ca4-bb4593b6d5fe = { name = "ProjecturedChart", path = "P/ProjecturedChart" }
 0d968d4c-e8d6-48b2-bf35-e636991e1b44 = { name = "ProjecturedMarkdown", path = "P/ProjecturedMarkdown" }
+0de1adc3-7512-4c4a-bda3-e5e1bc893aff = { name = "ProjecturedGraphExample", path = "P/ProjecturedGraphExample" }
 0e3957ae-e92a-496b-bebd-10c4026663e9 = { name = "ProjecturedProcess", path = "P/ProjecturedProcess" }
 0e53a0c9-3d54-4ef6-8a21-e550a94ca62b = { name = "ProjecturedChartExample", path = "P/ProjecturedChartExample" }
 0f41fec8-bd22-4fa0-a125-3c10d745f6e8 = { name = "ProjecturedConsoleTest", path = "P/ProjecturedConsoleTest" }
