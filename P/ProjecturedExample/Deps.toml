@@ -25,3 +25,6 @@ ProjecturedSQLExample = "6f92ce12-1ac0-47da-9eed-863a565badaf"
 ProjecturedSequenceChartExample = "5b64cb16-3395-4b64-9318-fc74b96892aa"
 ProjecturedXMLExample = "903c9982-1817-4ad4-896f-97194f4d58e8"
 ProjecturedYAMLExample = "fed55f08-0afa-4f03-a954-955ab0bee64d"
+
+["0.1.1-0"]
+ProjecturedPivotExample = "c240cc06-6e4d-439e-be67-95ca4b8cf959"
