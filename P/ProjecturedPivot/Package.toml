@@ -1,0 +1,4 @@
+name = "ProjecturedPivot"
+uuid = "eca914b8-c72d-4ebf-9e58-97ec1716e38c"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "ProjecturedPivot"

@@ -93,6 +93,7 @@ e12fc55c-24d9-46de-99d8-255849114e23 = { name = "ProjecturedFormulaExample", pat
 e1c62fea-11da-4947-a567-721c2ab4f06a = { name = "ProjecturedXMLTest", path = "P/ProjecturedXMLTest" }
 e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b = { name = "ProjecturedExample", path = "P/ProjecturedExample" }
 e6416f43-abf0-46b1-b638-fa5f9d9ece1d = { name = "ProjecturedPDFTest", path = "P/ProjecturedPDFTest" }
+eca914b8-c72d-4ebf-9e58-97ec1716e38c = { name = "ProjecturedPivot", path = "P/ProjecturedPivot" }
 ed85f55b-e74c-4f3b-8176-8899111cfda7 = { name = "ProjecturedBookTest", path = "P/ProjecturedBookTest" }
 ee9f8c84-306f-4f17-8271-ad471b5f4c56 = { name = "ProjecturedDatabaseExample", path = "P/ProjecturedDatabaseExample" }
 f0002b97-94ba-416c-b93c-86cdc095626f = { name = "ProjecturedSDL", path = "P/ProjecturedSDL" }
