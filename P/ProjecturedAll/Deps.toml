@@ -20,3 +20,6 @@ ProjecturedSQL = "d8115f9e-353f-406e-8661-6168b14bd6fd"
 ProjecturedSequenceChart = "52f7693d-4ffe-48c4-8e5b-a1c83c826c09"
 ProjecturedXML = "6f8deb26-6771-4202-9df0-376c19aef1c5"
 ProjecturedYAML = "a9f201ce-8e0a-436b-92f0-224b8478d5cb"
+
+["0.1.1-0"]
+ProjecturedPivot = "eca914b8-c72d-4ebf-9e58-97ec1716e38c"
