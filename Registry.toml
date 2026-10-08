@@ -60,6 +60,7 @@ description = "The packages of ProjecturEd"
 9482bca5-e1c6-47fd-ab22-f4512ed15b91 = { name = "ProjecturedFSM", path = "P/ProjecturedFSM" }
 957f07f7-0fb6-4a12-814a-3f612419e6b7 = { name = "ProjecturedProcessExample", path = "P/ProjecturedProcessExample" }
 975d7430-285c-49f1-8705-4e3c002513ca = { name = "ProjecturedJSON", path = "P/ProjecturedJSON" }
+9897b34e-e318-42ec-8700-51bd28135f60 = { name = "AgentClientProtocol", path = "A/AgentClientProtocol" }
 9b6ed84a-435e-4201-b17d-e2031f977df8 = { name = "ProjecturedMarkdownTest", path = "P/ProjecturedMarkdownTest" }
 9f92ab8d-1e4b-4b34-8cd3-a68ecab7f845 = { name = "ProjecturedBook", path = "P/ProjecturedBook" }
 a3e3499a-684d-4df9-a0d6-de2d1797b1f3 = { name = "ProjecturedKernel", path = "P/ProjecturedKernel" }
