@@ -78,6 +78,7 @@ b2967ee9-386e-4698-a92b-2bf5f698f2fd = { name = "ProjecturedKernelExample", path
 b5c88522-b0a8-403b-b9a3-0ff1b237a7b9 = { name = "ProjecturedODBCTest", path = "P/ProjecturedODBCTest" }
 b8f37bf2-d7d5-44f6-aa47-dae3ecf6ffb1 = { name = "ProjecturedSequenceChartTest", path = "P/ProjecturedSequenceChartTest" }
 b9bdd725-befb-4dbf-8d36-33f4c892fad9 = { name = "ProjecturedDBCatalogExample", path = "P/ProjecturedDBCatalogExample" }
+bf2a516e-32f2-44e2-9f63-c3afa81fdb4b = { name = "ProjecturedPivotTest", path = "P/ProjecturedPivotTest" }
 bf3b10cf-befa-4ac9-98d3-9c1678f27146 = { name = "ProjecturedTulip", path = "P/ProjecturedTulip" }
 c086a6dc-7bb1-453d-ac62-5c5ddfbfdd44 = { name = "ProjecturedACP", path = "P/ProjecturedACP" }
 c240cc06-6e4d-439e-be67-95ca4b8cf959 = { name = "ProjecturedPivotExample", path = "P/ProjecturedPivotExample" }
