@@ -80,6 +80,7 @@ b8f37bf2-d7d5-44f6-aa47-dae3ecf6ffb1 = { name = "ProjecturedSequenceChartTest", 
 b9bdd725-befb-4dbf-8d36-33f4c892fad9 = { name = "ProjecturedDBCatalogExample", path = "P/ProjecturedDBCatalogExample" }
 bf3b10cf-befa-4ac9-98d3-9c1678f27146 = { name = "ProjecturedTulip", path = "P/ProjecturedTulip" }
 c086a6dc-7bb1-453d-ac62-5c5ddfbfdd44 = { name = "ProjecturedACP", path = "P/ProjecturedACP" }
+c240cc06-6e4d-439e-be67-95ca4b8cf959 = { name = "ProjecturedPivotExample", path = "P/ProjecturedPivotExample" }
 c3f1d2e8-4a5b-6c7d-8e9f-0a1b2c3d4e5f = { name = "ProjecturedTest", path = "P/ProjecturedTest" }
 c50c731e-0b3d-49a3-9d62-8794fc19745c = { name = "ProjecturedYAMLTest", path = "P/ProjecturedYAMLTest" }
 c5b98bcf-e28d-4a35-99f8-6857f35710ad = { name = "ProjecturedChartTest", path = "P/ProjecturedChartTest" }
