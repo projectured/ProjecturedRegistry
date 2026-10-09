@@ -17,6 +17,7 @@ description = "The packages of ProjecturEd"
 18e37c66-e2b2-4424-ab73-223891693292 = { name = "ProjecturedPDF", path = "P/ProjecturedPDF" }
 1e313069-2975-45bd-ba6e-35a6296eb437 = { name = "ProjecturedOllama", path = "P/ProjecturedOllama" }
 2b4e36b2-6b10-43fd-9b63-0a09efcd22da = { name = "ProjecturedMCP", path = "P/ProjecturedMCP" }
+318f8e74-e016-4659-bb5b-d8af92946dd5 = { name = "ModelContextProtocol", path = "M/ModelContextProtocol" }
 3273370f-c929-4bc9-ba87-1db3095df6c3 = { name = "ProjecturedDBCatalogTest", path = "P/ProjecturedDBCatalogTest" }
 347e843b-c443-43c2-b8df-78595927ced1 = { name = "ProjecturedConversationExample", path = "P/ProjecturedConversationExample" }
 35efe23a-a24b-424c-93f0-086222c9adeb = { name = "ProjecturedMathTest", path = "P/ProjecturedMathTest" }
