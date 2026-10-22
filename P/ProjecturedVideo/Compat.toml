@@ -7,7 +7,12 @@ ProjecturedKernel = "0.1"
 ProjecturedPlatform = "0.1"
 ProjecturedSDL = "0.1"
 
-["0.1.1-0"]
+["0.1.1"]
 ProjecturedKernel = "0.1.1-0.1"
 ProjecturedPlatform = "0.2"
 ProjecturedSDL = "0.1.1-0.1"
+
+["0.1.2-0"]
+ProjecturedKernel = "0.2"
+ProjecturedPlatform = "0.3"
+ProjecturedSDL = "0.1.2-0.1"
