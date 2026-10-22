@@ -95,6 +95,7 @@ c5b98bcf-e28d-4a35-99f8-6857f35710ad = { name = "ProjecturedChartTest", path = "
 caf9ed19-1e68-4f5e-8085-d28b12c9e002 = { name = "ProjecturedJuliaTest", path = "P/ProjecturedJuliaTest" }
 cfb0314b-b1fd-4c94-91d2-2de69579dcb1 = { name = "ProjecturedGraph", path = "P/ProjecturedGraph" }
 d5e7b94b-cbe5-4b5c-9879-deb21bd10ab4 = { name = "ProjecturedWorkflow", path = "P/ProjecturedWorkflow" }
+d76d7962-22cb-410b-9735-0fe94aef2231 = { name = "ProjecturedWorkflowTest", path = "P/ProjecturedWorkflowTest" }
 d7d6c9a1-04d6-4ada-9cc1-b2de81f79968 = { name = "ProjecturedConsole", path = "P/ProjecturedConsole" }
 d8115f9e-353f-406e-8661-6168b14bd6fd = { name = "ProjecturedSQL", path = "P/ProjecturedSQL" }
 dc1d00c5-94ff-4244-b58f-31c92e267a9e = { name = "ProjecturedOpenRouterTest", path = "P/ProjecturedOpenRouterTest" }
