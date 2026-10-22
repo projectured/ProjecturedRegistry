@@ -7,8 +7,15 @@ ProjecturedKernel = "0.1"
 ProjecturedMath = "0.1"
 ProjecturedPlatform = "0.1"
 
-["0.1.1-0"]
+["0.1.1-0.1"]
 ProjecturedJulia = "0.1.1-0.1"
 ProjecturedKernel = "0.1.1-0.1"
 ProjecturedMath = "0.1.1-0.1"
 ProjecturedPlatform = "0.2"
+
+["0.2-0"]
+PrecompileTools = "1.3.4-1"
+ProjecturedJulia = "0.1.2-0.1"
+ProjecturedKernel = "0.2"
+ProjecturedMath = "0.1.2-0.1"
+ProjecturedPlatform = "0.3"
