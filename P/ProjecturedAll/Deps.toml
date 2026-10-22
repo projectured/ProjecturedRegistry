@@ -23,3 +23,7 @@ ProjecturedYAML = "a9f201ce-8e0a-436b-92f0-224b8478d5cb"
 
 ["0.1.1-0"]
 ProjecturedPivot = "eca914b8-c72d-4ebf-9e58-97ec1716e38c"
+
+["0.1.2-0"]
+ProjecturedResearch = "226d5d21-7a82-49ae-88d7-994b1059b66b"
+ProjecturedWorkflow = "d5e7b94b-cbe5-4b5c-9879-deb21bd10ab4"
