@@ -46,6 +46,7 @@ description = "The packages of ProjecturEd"
 6e7ca9da-6789-4ac4-a4d2-74571a5e8aba = { name = "ProjecturedTulipTest", path = "P/ProjecturedTulipTest" }
 6f8deb26-6771-4202-9df0-376c19aef1c5 = { name = "ProjecturedXML", path = "P/ProjecturedXML" }
 6f92ce12-1ac0-47da-9eed-863a565badaf = { name = "ProjecturedSQLExample", path = "P/ProjecturedSQLExample" }
+71334292-a0e7-448b-926e-a104a2d28203 = { name = "ProjecturedWorkflowExample", path = "P/ProjecturedWorkflowExample" }
 722875ac-d894-402c-8041-e4d11ad1bcfb = { name = "ProjecturedMarkdownExample", path = "P/ProjecturedMarkdownExample" }
 73f1f682-f993-4b23-8fb6-96106c481b86 = { name = "ProjecturedMathExample", path = "P/ProjecturedMathExample" }
 74717b3c-e326-42b6-b898-33b3a53c04ca = { name = "ProjecturedSQLTest", path = "P/ProjecturedSQLTest" }

@@ -1,0 +1,4 @@
+name = "ProjecturedWorkflowExample"
+uuid = "71334292-a0e7-448b-926e-a104a2d28203"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "example/ProjecturedWorkflowExample"
