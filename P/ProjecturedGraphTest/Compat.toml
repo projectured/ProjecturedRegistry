@@ -16,7 +16,7 @@ ProjecturedPlatformTest = "0.1"
 ProjecturedXML = "0.1"
 ProjecturedXMLExample = "0.1"
 
-["0.1.1-0"]
+["0.1.1"]
 ProjecturedConsole = "0.1.1-0.1"
 ProjecturedGraph = "0.1.1-0.1"
 ProjecturedGraphExample = "0.1.1-0.1"
@@ -30,3 +30,18 @@ ProjecturedPlatformExample = "0.1.1-0.1"
 ProjecturedPlatformTest = "0.1.1-0.1"
 ProjecturedXML = "0.1.1-0.1"
 ProjecturedXMLExample = "0.1.1-0.1"
+
+["0.1.2-0"]
+ProjecturedConsole = "0.1.2-0.1"
+ProjecturedGraph = "0.1.2-0.1"
+ProjecturedGraphExample = "0.1.2-0.1"
+ProjecturedJSON = "0.1.2-0.1"
+ProjecturedKernel = "0.2"
+ProjecturedKernelExample = "0.1.2-0.1"
+ProjecturedKernelTest = "0.1.2-0.1"
+ProjecturedPDF = "0.1.2-0.1"
+ProjecturedPlatform = "0.3"
+ProjecturedPlatformExample = "0.1.2-0.1"
+ProjecturedPlatformTest = "0.1.2-0.1"
+ProjecturedXML = "0.1.2-0.1"
+ProjecturedXMLExample = "0.1.2-0.1"
