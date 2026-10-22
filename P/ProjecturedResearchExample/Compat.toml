@@ -1,0 +1,7 @@
+[0]
+ProjecturedKernel = "0.2"
+ProjecturedKernelExample = "0.1.2-0.1"
+ProjecturedPlatform = "0.3"
+ProjecturedPlatformExample = "0.1.2-0.1"
+ProjecturedResearch = "0.1"
+julia = "1.12.0-1"
