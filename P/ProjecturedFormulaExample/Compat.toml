@@ -11,7 +11,7 @@ ProjecturedPDF = "0.1"
 ProjecturedPlatform = "0.1"
 ProjecturedPlatformExample = "0.1"
 
-["0.1.1-0"]
+["0.1.1"]
 ProjecturedConsole = "0.1.1-0.1"
 ProjecturedFormula = "0.1.1-0.1"
 ProjecturedJulia = "0.1.1-0.1"
@@ -20,3 +20,13 @@ ProjecturedKernelExample = "0.1.1-0.1"
 ProjecturedPDF = "0.1.1-0.1"
 ProjecturedPlatform = "0.2"
 ProjecturedPlatformExample = "0.1.1-0.1"
+
+["0.1.2-0"]
+ProjecturedConsole = "0.1.2-0.1"
+ProjecturedFormula = "0.2"
+ProjecturedJulia = "0.1.2-0.1"
+ProjecturedKernel = "0.2"
+ProjecturedKernelExample = "0.1.2-0.1"
+ProjecturedPDF = "0.1.2-0.1"
+ProjecturedPlatform = "0.3"
+ProjecturedPlatformExample = "0.1.2-0.1"
