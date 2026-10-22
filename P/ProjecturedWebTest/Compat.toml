@@ -8,8 +8,14 @@ ProjecturedKernelTest = "0.1"
 ProjecturedPlatform = "0.1"
 ProjecturedWeb = "0.1"
 
-["0.1.1-0"]
+["0.1.1"]
 ProjecturedKernel = "0.1.1-0.1"
 ProjecturedKernelTest = "0.1.1-0.1"
 ProjecturedPlatform = "0.2"
 ProjecturedWeb = "0.1.1-0.1"
+
+["0.1.2-0"]
+ProjecturedKernel = "0.2"
+ProjecturedKernelTest = "0.1.2-0.1"
+ProjecturedPlatform = "0.3"
+ProjecturedWeb = "0.1.2-0.1"
