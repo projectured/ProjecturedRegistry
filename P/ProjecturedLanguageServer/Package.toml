@@ -1,0 +1,4 @@
+name = "ProjecturedLanguageServer"
+uuid = "1a85e49b-8115-4d59-ab70-0d3513ffc95a"
+repo = "https://github.com/projectured/Projectured.jl.git"
+subdir = "ProjecturedLanguageServer"
