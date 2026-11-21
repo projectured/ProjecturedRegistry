@@ -1,0 +1,3 @@
+name = "CompilerServer"
+uuid = "b9f42e07-4c72-477d-b783-e20d04cdfd76"
+repo = "https://github.com/projectured/CompilerServer.jl.git"
